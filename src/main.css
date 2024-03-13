@@ -47,7 +47,7 @@
 
 
 .control-container{
-  background-color: rgb(179, 102, 249, .9);
+  background-color: rgba(5, 0, 9, 0.9);
   padding: 20px;
   border-radius: 50%;
   display: flex;
